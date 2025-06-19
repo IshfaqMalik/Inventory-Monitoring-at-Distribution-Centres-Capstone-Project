@@ -101,7 +101,6 @@ python tuner.py --data_dir data --save_path model --epochs 50
 | Feature                | Status      |
 |------------------------|-------------|
 | Model Deployment       | ✅ Completed via `inference.py` |
-| Lambda Integration     | ⬜ To be added |
 | Hyperparameter Tuning  | ✅ Done via `tuner.py` |
 | Cost Optimization      | ⬜ Optional Spot Instance config |
 | Multi-Instance Training| ⬜ Optional future step |
